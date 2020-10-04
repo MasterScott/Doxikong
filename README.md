@@ -3,8 +3,11 @@ The ultimate simple dox tool
 Steps to use the tool 
 
 
-Git clone https://github.com/ctoANG/Doxikong.git
+git clone https://github.com/ctoANG/Doxikong.git
 
-Cd Doxikong 
+cd Doxikong 
 
-Python Doxikong.git
+python doxikong.git
+
+  DoxIkong BY https://cracked.to/ANG Version: Beta 1.0
+
